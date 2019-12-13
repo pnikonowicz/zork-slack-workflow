@@ -24,8 +24,8 @@
           "type": "message",
           "id": "7555a53a-f9b4-4b13-9b03-2540fb9a229c",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "open mailbox",
@@ -36,8 +36,8 @@
           "type": "message",
           "id": "c259a4f9-2691-4803-8bb9-1ff7cc02d50a",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "read leaflet",
@@ -48,8 +48,8 @@
           "type": "message",
           "id": "1debb0da-a275-4ae9-ba8e-f5168096c877",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "drop leaflet",
@@ -60,8 +60,8 @@
           "type": "message",
           "id": "c5125652-7c33-423a-8032-c50a0f72d7be",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "go north",
@@ -72,8 +72,8 @@
           "type": "message",
           "id": "da028ccc-c310-4ecb-9573-30ff775570a2",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "go north",
@@ -84,8 +84,8 @@
           "type": "message",
           "id": "c282ec22-553b-4894-8a7f-e7852c3b433d",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "climb tree",
@@ -96,8 +96,8 @@
           "type": "message",
           "id": "6d635fe4-4a88-418a-a3c6-68280610cfd4",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "take egg",
@@ -108,8 +108,8 @@
           "type": "message",
           "id": "6143628e-3855-4662-9da6-7c4984e0c966",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "go down",
@@ -120,8 +120,8 @@
           "type": "message",
           "id": "e7a46ab9-2ce2-4349-882b-45aa8c3696cf",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "open egg",
@@ -132,8 +132,8 @@
           "type": "message",
           "id": "c7640058-03f3-4026-8a35-f36fc2404dda",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "go south",
@@ -144,8 +144,8 @@
           "type": "message",
           "id": "ef0d5cc2-d320-4a4a-af6a-62dbe96381cc",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "go east",
@@ -156,8 +156,8 @@
           "type": "message",
           "id": "05ed6b9a-8cae-4e3e-97ef-7cbf547f9c40",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "open window",
@@ -168,8 +168,8 @@
           "type": "message",
           "id": "d0334404-2eef-41bf-845a-abe2e61fae8f",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "enter house",
@@ -180,8 +180,8 @@
           "type": "message",
           "id": "f0d02d8e-b1d5-46ae-970d-322736570d6c",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "take sack and bottle",
@@ -192,8 +192,8 @@
           "type": "message",
           "id": "b8a253d2-d06b-4fac-a375-2f5bf0528617",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "open sack",
@@ -204,8 +204,8 @@
           "type": "message",
           "id": "6c9a3a72-6d98-43ff-8c4e-63c0e11f947d",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "go west",
@@ -216,8 +216,8 @@
           "type": "message",
           "id": "0c1ac7f4-90ed-4343-bbba-ab825a483a29",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "get sword and lantern",
@@ -228,8 +228,8 @@
           "type": "message",
           "id": "f72d5bc6-0a1e-4e4b-93d9-82f69b69a759",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "move rug",
@@ -240,8 +240,8 @@
           "type": "message",
           "id": "11e03712-7aff-4068-87e5-d8c45747b1ee",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "open trap door",
@@ -252,8 +252,8 @@
           "type": "message",
           "id": "c3112656-60b4-486d-a007-5c497c04b381",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "go down",
@@ -264,8 +264,8 @@
           "type": "message",
           "id": "d30b211d-f876-4494-86a5-328e7d545677",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "wait",
@@ -276,8 +276,8 @@
           "type": "message",
           "id": "215fe0f6-b1bf-43ea-a101-8285fcef3b96",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": true,
             "button_label": "go north",
@@ -288,8 +288,8 @@
           "type": "message",
           "id": "a393d415-6acd-4944-86b7-b753e4b26a3d",
           "config": {
-            "channel": {
-              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==channel"
+            "thread": {
+              "ref": "17355ffc-9ee1-42c6-8b2c-87ff71e72f65==message_data"
             },
             "has_button": false,
             "message_text": "Oh, no! A lurking grue slithered into the room and devoured you!\n\n   ****  You have died  ****\n\nNow, let's take a look here... Well, you probably deserve another chance. I can't quite fix you up completely, but you can't have everything.\n\nForest\nThis is a forest, with trees in all directions. To the east, there appears to be sunlight."
